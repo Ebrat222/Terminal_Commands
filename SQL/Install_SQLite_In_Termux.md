@@ -19,6 +19,6 @@ sqlite3
 
 Notes:
 
-1· First 3 lines set up SQLite in Termux
-2· sqlite3 alone creates temporary database
-3· Commented line shows how to create persistent file
+1· First 3 lines set up SQLite in Termux.  
+2· sqlite3 alone creates temporary database.   
+3· Commented line shows how to create persistent file.  
